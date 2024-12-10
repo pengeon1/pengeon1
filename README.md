@@ -6,7 +6,15 @@ I am [Piyush Mishra](https://www.linkedin.com/in/piyush-mishra-056b6a326/), curr
 
 ---
 
-## Contact
+## Repositories 📂
+
+Here are my projects:
+
+[![gpa](https://gitmystat.vercel.app/repo?username=pengeon1&repo=gpa-calculator)](https://github.com/pengeon1/gpa-calculator)
+
+---
+
+## Contact 📲
 
 Want to get in touch?
 
@@ -17,3 +25,5 @@ Want to get in touch?
 </div>
 
 ---
+
+
