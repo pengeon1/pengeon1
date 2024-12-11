@@ -10,8 +10,9 @@ I am [Piyush Mishra](https://www.linkedin.com/in/piyush-mishra-056b6a326/), curr
 
 Here are my projects:
 
-[![gpa](https://gitmystat.vercel.app/repo?username=pengeon1&repo=gpa-calculator)](https://github.com/pengeon1/gpa-calculator)
-[![blender](https://gitmystat.vercel.app/repo?username=pengeon1&repo=blender-pengeon)](https://github.com/pengeon1/blender-pengeon)
+[![gpa](https://gitmystat.vercel.app/repo?username=pengeon1&repo=gpa-calculator&theme=gold)](https://github.com/pengeon1/gpa-calculator)
+
+[![blender](https://gitmystat.vercel.app/repo?username=pengeon1&repo=blender-pengeon&theme=gold)](https://github.com/pengeon1/blender-pengeon)
 
 ---
 
