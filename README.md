@@ -11,9 +11,8 @@ I am [Piyush Mishra](https://www.linkedin.com/in/piyush-mishra-056b6a326/), curr
 Here are my projects:
 
 [![dashboard](https://gitmystat.vercel.app/repo?theme=discord&username=pengeon1&repo=iiitdm-dashboard)](https://github.com/pengeon1/iiitdm-dashboard)
-
 [![gpa](https://gitmystat.vercel.app/repo?username=pengeon1&repo=gpa-calculator&theme=discord)](https://github.com/pengeon1/gpa-calculator)
-
+[![calendar](https://gitmystat.vercel.app/repo?theme=discord&username=pengeon1&repo=academic-calendar)](https://github.com/pengeon1/academic-calendar)
 [![blender](https://gitmystat.vercel.app/repo?username=pengeon1&repo=blender-pengeon&theme=discord)](https://github.com/pengeon1/blender-pengeon)
 
 ---
