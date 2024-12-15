@@ -1,4 +1,4 @@
-![header](https://github.com/user-attachments/assets/e5d641b2-c974-4b86-b25c-a8fba5a96809)
+![github-header-image](https://github.com/user-attachments/assets/2d2ed838-fffc-49ed-869b-721574d6dfbd)
 
 # Hey There! 👋
 
@@ -10,12 +10,20 @@ I am [Piyush Mishra](https://www.linkedin.com/in/piyush-mishra-056b6a326/), curr
 
 Here are my projects:
 
-[![dashboard](https://gitmystat.vercel.app/repo?theme=discord&username=pengeon1&repo=iiitdm-dashboard)](https://github.com/pengeon1/iiitdm-dashboard)
-[![gpa](https://gitmystat.vercel.app/repo?username=pengeon1&repo=gpa-calculator&theme=discord)](https://github.com/pengeon1/gpa-calculator)
-[![calendar](https://gitmystat.vercel.app/repo?theme=discord&username=pengeon1&repo=academic-calendar)](https://github.com/pengeon1/academic-calendar)
-[![blender](https://gitmystat.vercel.app/repo?username=pengeon1&repo=blender-pengeon&theme=discord)](https://github.com/pengeon1/blender-pengeon)
+[![dashboard](https://gitmystat.vercel.app/repo?theme=vsdark&username=pengeon1&repo=iiitdm-dashboard)](https://github.com/pengeon1/iiitdm-dashboard)
+[![attendance](https://gitmystat.vercel.app/repo?theme=vsdark&username=pengeon1&repo=iiitdm-attendance)](https://github.com/pengeon1/iiitdm-attendance)
+[![gpa](https://gitmystat.vercel.app/repo?username=pengeon1&repo=gpa-calculator&theme=vsdark)](https://github.com/pengeon1/gpa-calculator)
+[![calendar](https://gitmystat.vercel.app/repo?theme=vsdark&username=pengeon1&repo=academic-calendar)](https://github.com/pengeon1/academic-calendar)
+[![blender](https://gitmystat.vercel.app/repo?username=pengeon1&repo=blender-pengeon&theme=vsdark)](https://github.com/pengeon1/blender-pengeon)
 
 ---
+
+## Fun Space ƪ(˘⌣˘)ʃ
+
+Here is some of my work that I did for fun:
+
+[![2048](https://gitmystat.vercel.app/repo?theme=moonlight&username=pengeon1&repo=2048)](https://github.com/pengeon1/2048)
+[![wordle](https://gitmystat.vercel.app/repo?theme=moonlight&username=pengeon1&repo=wordle)](https://github.com/pengeon1/wordle)
 
 ## Contact 📲
 
