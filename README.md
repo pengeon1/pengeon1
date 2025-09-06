@@ -1,38 +1,64 @@
-![github-header-image](https://github.com/user-attachments/assets/2d2ed838-fffc-49ed-869b-721574d6dfbd)
-
-# Hey There! 👋
-
-I am [Piyush Mishra](https://www.linkedin.com/in/piyush-mishra-056b6a326/), currently pursuing B.Tech CSE at [IIITDM Kancheepuram](https://iiitdm.ac.in) from `2024-2028`. I have learnt python and currently am learning C, I also do 3-D Rendering in [Blender](https://www.blender.org/) as a hobby.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Piyush+Mishra;A+wannabe+software+guy;Exploring+new+things+everyday;Always+learning+new+skills" alt="Typing Animation" />
+</p>
 
 ---
 
-## Repositories 📂
-
-Here are my projects:
-
-[![gpa](https://gitmystat.vercel.app/repo?username=pengeon1&repo=gpa-calculator&theme=vsdark)](https://github.com/pengeon1/gpa-calculator)
-[![calendar](https://gitmystat.vercel.app/repo?theme=vsdark&username=pengeon1&repo=academic-calendar)](https://github.com/pengeon1/academic-calendar)
-[![blender](https://gitmystat.vercel.app/repo?username=pengeon1&repo=blender-pengeon&theme=vsdark)](https://github.com/pengeon1/blender-pengeon)
-
----
-
-## Fun Space ƪ(˘⌣˘)ʃ
-
-Here is some of my work that I did for fun:
-
-[![2048](https://gitmystat.vercel.app/repo?theme=moonlight&username=pengeon1&repo=2048)](https://github.com/pengeon1/2048)
-[![wordle](https://gitmystat.vercel.app/repo?theme=moonlight&username=pengeon1&repo=wordle)](https://github.com/pengeon1/wordle)
-
-## Contact 📲
-
-Want to get in touch?
-
-<div align="left">
-    <a href="mailto:piyushmishra0207@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/piyush-mishra-056b6a326/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
-    <a href="https://github.com/pengeon1"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
-</div>
+<h2 align="center">a little about me</h2>
+<p align="center">
+    Pursuing B.Tech CSE at IIITDM Kancheepuram.<br/>
+    Coding to become a "software guy" one program at a time.<br/>
+    Currently focused on <b>AUV (Motion Controller)</b> and experimenting with <b>ROS2</b>.
+</p>
 
 ---
 
+<h2 align="center">what I have done</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nodejs,blender,discord,arduino,git,vscode,linux,windows,ubuntu&perline=7" alt="Tech Stack" />
+</p>
 
+---
+
+<h2 align="center">github insights</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pengeon1&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengeon1&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+---
+
+<h2 align="center">a few repos</h2>
+<p align="center">
+  <a href="https://github.com/auvsociety/tvmc-msg-pecka">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=auvsociety&repo=tvmc-msg-pecka&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/pengeon1/gpa-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pengeon1&repo=gpa-calculator&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/auvsociety/tvmc-pecka">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=auvsociety&repo=tvmc-pecka&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pengeon1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/piyush-mishra-056b6a326">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pengeon1">
+    <img src="https://img.shields.io/badge/Github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:piyushmishra0207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Made with ❤️ by <a href="https://linkedin.com/in/piyush-mishra-056b6a326">Piyush Mishra</a>
+</p>
