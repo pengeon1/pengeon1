@@ -7,8 +7,7 @@
 <h2 align="center">a little about me</h2>
 <p align="center">
     Pursuing B.Tech CSE at IIITDM Kancheepuram.<br/>
-    Coding to become a "software guy" one program at a time.<br/>
-    Currently focused on <b>AUV (Motion Controller)</b> and experimenting with <b>ROS2</b>.
+    Currently focused on <b>AUV (Motion Controller, image processing the & GUI)</b> and experimenting with <b>ROS2</b>.
 </p>
 
 ---
@@ -57,8 +56,4 @@
   <a href="mailto:piyushmishra0207@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  Made with ❤️ by <a href="https://linkedin.com/in/piyush-mishra-056b6a326">Piyush Mishra</a>
 </p>
