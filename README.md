@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Piyush+Mishra;A+wannabe+software+guy;Exploring+new+things+everyday;Always+learning+new+skills" alt="Typing Animation" />
 </p>
 
----
-
 <h2 align="center">a little about me</h2>
 <p align="center">
     Pursuing B.Tech CSE at IIITDM Kancheepuram.<br/>
@@ -11,7 +9,6 @@
     Exploring computer architecture and optimization techniques.
 </p>
 
----
 
 <h2 align="center">what I have done</h2>
 <p align="center">
@@ -48,7 +45,6 @@
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi" alt="Raspberry Pi" />
 </p>
 
----
 
 <h2 align="center">my tiny contributions</h2>
 <p align="center">
@@ -57,7 +53,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pengeon1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
----
 
 <p align="center">
   <a href="https://linkedin.com/in/piyush-mishra-056b6a326">
