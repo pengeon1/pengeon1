@@ -48,9 +48,9 @@
 
 <h2 align="center">my tiny contributions</h2>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=pengeon1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=pengeon1&theme=github_dark&hide_border=false" /><br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pengeon1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=pengeon1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" width=450/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pengeon1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=355 /><br/>
+  <img src="https://streak-stats.demolab.com/?user=pengeon1&theme=github_dark&hide_border=false" />
 </p>
 
 
